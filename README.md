@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saikiran12233
 - 👀 I’m interested in ...learning new technology
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...Core Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
